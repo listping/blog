@@ -30,9 +30,11 @@ BAZEL_LINKOPTS=-static-libstdc++ CC=/your_mpi_location/mpicxx LD_LIBRARY_PATH=${
 
 ## 修改run_pagerank.sh需要的hadoop环境
 
-*指定jar包地址：
+* 指定jar包地址：
+
 export CLASSPATH=${HADOOP_HOME}/etc/hadoop:`find ${HADOOP_HOME}/client/ | awk '{path=path":"$0}END{print path}'`
-*指定libhdfs.so.0.0.0地址
+* 指定libhdfs.so.0.0.0地址
+
 export LD_LIBRARY_PATH="${plato-master}/bazel-bin/3rd/hadoop2.7.4/lib":${LD_LIBRARY_PATH}
 
 ## RUN
