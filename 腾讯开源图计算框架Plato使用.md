@@ -5,8 +5,10 @@ github地址：https://github.com/Tencent/plato
 ##初始化依赖的编译环境，和构建连接库
 进入plato-master执行命令如下
 * install compile dependencies.
+
 sh ./docker/install-dependencies.sh
 * download and build staticlly linked libraries.
+
 sh ./3rdtools.sh distclean && ./3rdtools.sh install
 
 ##必须安装的如下所示
