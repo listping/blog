@@ -11,31 +11,31 @@ sh ./docker/install-dependencies.sh
 
 sh ./3rdtools.sh distclean && ./3rdtools.sh install
 
-##必须安装的如下所示
-*GCC
+## 必须安装的如下所示
+* GCC
 At least 4.8.5 for C++11 support.
-*MPICH-3
+* MPICH-3
 Required for compiling and run Plato.
-*OpenMP
+* OpenMP
 Required for compiling and run Plato.
-*Bazel-0.26
+* Bazel-0.26
 Required for compiling.
 
-##对C++源码编译(Build)
+## 对C++源码编译(Build)
 
 BAZEL_LINKOPTS=-static-libstdc++ CC=/your_mpi_location/mpicxx bazel build example/...
 
-##TEST
+## TEST
 BAZEL_LINKOPTS=-static-libstdc++ CC=/your_mpi_location/mpicxx LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${PWD}/3rd/hadoop2/lib bazel test --test_env=LD_LIBRARY_PATH plato/...
 
-##修改run_pagerank.sh需要的hadoop环境
+## 修改run_pagerank.sh需要的hadoop环境
 
 *指定jar包地址：
 export CLASSPATH=${HADOOP_HOME}/etc/hadoop:`find ${HADOOP_HOME}/client/ | awk '{path=path":"$0}END{print path}'`
 *指定libhdfs.so.0.0.0地址
 export LD_LIBRARY_PATH="${plato-master}/bazel-bin/3rd/hadoop2.7.4/lib":${LD_LIBRARY_PATH}
 
-##RUN
+## RUN
 
 sh ./scripts/run_pagerank.sh
 
