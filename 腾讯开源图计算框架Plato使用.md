@@ -45,6 +45,7 @@ sh ./scripts/run_pagerank.sh
 * [编译源码](https://www.xgithub.com/2019/11/08/tencent-plato-%E8%85%BE%E8%AE%AF%E9%AB%98%E6%80%A7%E8%83%BD%E5%9B%BE%E8%AE%A1%E7%AE%97%E6%A1%86%E6%9E%B6plato/)
 * [MPI安装](https://blog.csdn.net/u010657094/article/details/49871547)
 * [MPI用户文档](http://www.mpich.org/static/downloads/3.3.2/mpich-3.3.2-userguide.pdf)
+* [bazel安装](https://blog.csdn.net/u012543819/article/details/84936986)
 
 
 
