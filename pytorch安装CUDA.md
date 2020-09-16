@@ -20,6 +20,7 @@ pip install torch==1.5.1+cu101 torchvision==0.6.1+cu101 -f https://download.pyto
  #### 2.4 因此本人最终决定下载在本地再进行安装
  
  * [各种版本下载地址](https://download.pytorch.org/whl/torch_stable.html)
+ * [国内镜像参考]( https://www.cnblogs.com/wqpkita/p/7248525.html)
  * 1）找到torch-1.5.1+cu101-cp36-cp36m-win_amd64.whl和 torchvision-0.6.1+cu101-cp36-cp36m-win_amd64.whl的下载地址，然后用迅雷下载，下载速度飞快
  * 2）cmd命令进入下载目录 D:\download\迅雷下载
  * 3）从本地进行安装，安装命令如下：
