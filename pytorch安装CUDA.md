@@ -1,4 +1,4 @@
-## pytorch安装CUDA
+## win10+CUDA+pytorch安装
 ### 1.cuda下载安装
  * [CUDA10.1安装包下载](https://www.cnblogs.com/imper/p/11976077.html)
  * [cuda、cuDNN安装](https://zhuanlan.zhihu.com/p/158900161)
