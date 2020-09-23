@@ -2,7 +2,7 @@
 ### 1.cuda下载安装
  * [CUDA10.1安装包下载](https://www.cnblogs.com/imper/p/11976077.html)
  * [cuda、cuDNN安装](https://zhuanlan.zhihu.com/p/158900161)
- * [cuDNN版本选择下载](https://link.zhihu.com/?target=https%3A//developer.nvidia.com/rdp/cudnn-archive)
+ * [cuDNN版本选择下载](https://developer.nvidia.com/rdp/cudnn-archive)
  
 ### 2.安装pytorch
 
