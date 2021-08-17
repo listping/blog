@@ -6,4 +6,5 @@
 * 4.[label smoothing(标签平滑)学习笔记](https://zhuanlan.zhihu.com/p/116466239) 
 * 5.[label-smoothing标签平滑__pytorch版实现](https://www.pythonheidong.com/blog/article/509355/16a91cd5484210e433f0/) 
 * 6.[论NLP领域的内卷](https://mp.weixin.qq.com/s/3QW5PaRy99iw0fxePz5GvQ)
+* 7.[Self-Tuning: 如何减少对标记数据的需求](https://mp.weixin.qq.com/s/iWtSXFAXD4gd39DpM_W-Ow)
 
