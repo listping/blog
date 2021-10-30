@@ -4,3 +4,4 @@
 * 2.[天池大数据](https://tianchi.aliyun.com/competition/gameList/algorithmList)
 * 3.[DataFountain](https://www.datafountain.cn/competitions)
 * 4.[JData大数据竞赛](https://jdata.jd.com/html/list.html)
+* 5.[腾讯比赛](https://algo.qq.com/)
