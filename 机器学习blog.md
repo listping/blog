@@ -10,5 +10,5 @@
 * 8.[SimCSE](https://github.com/bojone/SimCSE)
 * 9.[轮廓系数](https://zhuanlan.zhihu.com/p/128589852)
 * 10.[dbscan](https://www.cnblogs.com/bonelee/p/8692336.html)
-* 11.[SimCSE](https://github.com/bojone/SimCSE)
+* 11.[十大经典排序算法（python实现）](https://www.cnblogs.com/Mufasa/p/10527387.html)
 
