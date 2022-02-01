@@ -8,4 +8,7 @@
 * 6.[论NLP领域的内卷](https://mp.weixin.qq.com/s/3QW5PaRy99iw0fxePz5GvQ)
 * 7.[Self-Tuning: 如何减少对标记数据的需求](https://mp.weixin.qq.com/s/iWtSXFAXD4gd39DpM_W-Ow)
 * 8.[SimCSE](https://github.com/bojone/SimCSE)
+* 9.[轮廓系数](https://zhuanlan.zhihu.com/p/128589852)
+* 10.[dbscan](https://www.cnblogs.com/bonelee/p/8692336.html)
+* 11.[SimCSE](https://github.com/bojone/SimCSE)
 
