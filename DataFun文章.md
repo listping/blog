@@ -6,6 +6,7 @@
 * 5.[渠江涛：重排序在快手短视频推荐系统中的演进](https://mp.weixin.qq.com/s/OTyEbPCBh1NHogPM7bBtvA)
 * 6.[牛亚峰：GNN在腾讯反欺诈领域的应用](https://mp.weixin.qq.com/s/VdK6dG1qBSpfcbIuJGFAIg)
 * 7.[刘德华：标签推荐与“猜你想找”算法实践](https://mp.weixin.qq.com/s/JGUAkqDC6Rlj3ZTC7bT0vw)
+* 8.[向量检索使用场景和关键技术](https://mp.weixin.qq.com/s/q_ivtnQ8IKD-IQ8QtMpsVQ)
 
 ## NLP
 * 1.[小布助手闲聊生成式算法](https://mp.weixin.qq.com/s/V8rSRHodXkecZKVKJ35ZoA)
