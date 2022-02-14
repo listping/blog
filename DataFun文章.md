@@ -10,6 +10,9 @@
 ## NLP
 * 1.[小布助手闲聊生成式算法](https://mp.weixin.qq.com/s/V8rSRHodXkecZKVKJ35ZoA)
 * 2.[QQ音乐歌词AI辅助创作技术](https://mp.weixin.qq.com/s/acyXaVxnWnf9u6xpLtWo4g)
+* 3.[腾讯音乐多模态音乐匹配技术与应用](https://mp.weixin.qq.com/s/Q5MquXWmbCDKLyfNzhsE3g)
+* 4.[陆昱：基于文本和语音的双模态情感分析](https://mp.weixin.qq.com/s/9z9BNNlG5b8jLSexcHwb2w)
+
 
 ## 广告
 * 1.[智能调价oCPX，你以为赚的是保价，其实你丢的是流量！](https://mp.weixin.qq.com/s/ws4gY54LaT2tTW5zILHIYA)
